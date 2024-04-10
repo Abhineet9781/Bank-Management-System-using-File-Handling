@@ -37,3 +37,11 @@ This bank management system provides a basic yet functional interface for managi
 Note:
 
 This system is intended for educational purposes and showcases a simplistic implementation of a bank management system. For production-level use, additional features such as enhanced security measures, database integration, and error handling would be essential. Additionally, it's important to note that storing sensitive information (like account details) in plain text files is not secure for real-world applications.
+
+Notes
+This project is designed for educational purposes to demonstrate file handling, data serialization, and basic menu-driven interactions in Python.
+For production use, consider implementing additional features such as error handling, user authentication, and data validation for enhanced security and user experience.
+Author
+Abhineet Kumar
+License
+This project is licensed under the MIT License.
